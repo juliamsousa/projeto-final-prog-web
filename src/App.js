@@ -7,9 +7,9 @@ import Decom from "./pages/Decom/Decom";
 
 function App() {
   return (
-    // <Home/>
+    <Home/>
     // <About/>
-    <Decom/>
+    // <Decom/>
   );
 }
 
