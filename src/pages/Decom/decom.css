@@ -1,0 +1,53 @@
+/* ESTILIZACAO HEADER*/
+/*--------------------------------*/
+.container {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 17vh;
+  font-size: 62, 5%;
+}
+
+h1 {
+  font-family: 'Raleway';
+  font-size: 2rem;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+.main-image {
+  width: 100%;
+  object-fit: cover;
+  height: 70vh;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 0% 5%;
+  margin: 2% 0% 0% 0%;
+}
+
+.text-section {
+  padding: 0% 1%;
+  margin-left: 5%;
+  width: 75vw;
+}
+
+.decom-text {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 135.2%;
+  color: #000
+}

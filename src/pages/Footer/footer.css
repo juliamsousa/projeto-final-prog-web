@@ -1,0 +1,22 @@
+/* ESTILIZACAO HEADER*/
+/*--------------------------------*/
+.footer {
+  margin-top: 10%;
+  padding: 1%;
+  width: 100%;
+  background-color: #000;
+  height: 25vh;
+  color: #fff;
+  text-align: left;
+}
+
+.footer-text {
+  font-size: 1.1rem;
+  color: #fff;
+}
+
+h4 {
+  margin-left: 5%;
+  font-size: 1.2rem;
+  color: #fff;
+}
