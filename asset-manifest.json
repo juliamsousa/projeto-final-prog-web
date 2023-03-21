@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/projeto-final-prog-web/static/css/main.5cc77a83.css",
-    "main.js": "/projeto-final-prog-web/static/js/main.3e6525d9.js",
-    "static/media/galeria2.jpg": "/projeto-final-prog-web/static/media/galeria2.a82666069ed54e6837bf.jpg",
-    "static/media/galeria9.jpg": "/projeto-final-prog-web/static/media/galeria9.4df9a364a47faa91d701.jpg",
-    "static/media/galeria8.jpg": "/projeto-final-prog-web/static/media/galeria8.65a8a5fc702acec366c4.jpg",
-    "static/media/graduation.jpg": "/projeto-final-prog-web/static/media/graduation.d4b1a586a8ee3057b525.jpg",
-    "static/media/galeria4.jpg": "/projeto-final-prog-web/static/media/galeria4.47e3460ffb389ed361d9.jpg",
-    "static/media/monografia.jpg": "/projeto-final-prog-web/static/media/monografia.2eeebc0dfd46cb6cb0bf.jpg",
-    "static/media/doutorado.jpg": "/projeto-final-prog-web/static/media/doutorado.2fc9c7a6d35a4b2b3294.jpg",
-    "static/media/decom-cover.jpg": "/projeto-final-prog-web/static/media/decom-cover.bee4f7cdbf8a8a5130f0.jpg",
-    "static/media/galeria7.jpg": "/projeto-final-prog-web/static/media/galeria7.e60b434e8d19c3774bb0.jpg",
-    "static/media/galeria1.jpg": "/projeto-final-prog-web/static/media/galeria1.df1f5cc46a4a21226a31.jpg",
-    "static/media/galeria3.jpg": "/projeto-final-prog-web/static/media/galeria3.e130d56fd2860eb8c32f.jpg",
-    "static/media/galeria6.jpg": "/projeto-final-prog-web/static/media/galeria6.abcd72c911918f637bf0.jpg",
-    "static/media/galeria5.jpg": "/projeto-final-prog-web/static/media/galeria5.ffc5a61f9bc1ad233c28.jpg",
-    "static/media/carrousel4.png": "/projeto-final-prog-web/static/media/carrousel4.762096f6afc516674968.png",
-    "static/media/carrousel1.png": "/projeto-final-prog-web/static/media/carrousel1.3cffff679857ecad49b2.png",
-    "static/media/carrousel2.jpg": "/projeto-final-prog-web/static/media/carrousel2.0586b760ee958a42d205.jpg",
-    "static/media/carrousel3.png": "/projeto-final-prog-web/static/media/carrousel3.8bce9715cdcee0a6be76.png",
-    "index.html": "/projeto-final-prog-web/index.html",
-    "main.5cc77a83.css.map": "/projeto-final-prog-web/static/css/main.5cc77a83.css.map",
-    "main.3e6525d9.js.map": "/projeto-final-prog-web/static/js/main.3e6525d9.js.map"
+    "main.css": "/decom-page/static/css/main.5cc77a83.css",
+    "main.js": "/decom-page/static/js/main.1f42f5b5.js",
+    "static/media/galeria2.jpg": "/decom-page/static/media/galeria2.a82666069ed54e6837bf.jpg",
+    "static/media/galeria9.jpg": "/decom-page/static/media/galeria9.4df9a364a47faa91d701.jpg",
+    "static/media/galeria8.jpg": "/decom-page/static/media/galeria8.65a8a5fc702acec366c4.jpg",
+    "static/media/graduation.jpg": "/decom-page/static/media/graduation.d4b1a586a8ee3057b525.jpg",
+    "static/media/galeria4.jpg": "/decom-page/static/media/galeria4.47e3460ffb389ed361d9.jpg",
+    "static/media/monografia.jpg": "/decom-page/static/media/monografia.2eeebc0dfd46cb6cb0bf.jpg",
+    "static/media/doutorado.jpg": "/decom-page/static/media/doutorado.2fc9c7a6d35a4b2b3294.jpg",
+    "static/media/decom-cover.jpg": "/decom-page/static/media/decom-cover.bee4f7cdbf8a8a5130f0.jpg",
+    "static/media/galeria7.jpg": "/decom-page/static/media/galeria7.e60b434e8d19c3774bb0.jpg",
+    "static/media/galeria1.jpg": "/decom-page/static/media/galeria1.df1f5cc46a4a21226a31.jpg",
+    "static/media/galeria3.jpg": "/decom-page/static/media/galeria3.e130d56fd2860eb8c32f.jpg",
+    "static/media/galeria6.jpg": "/decom-page/static/media/galeria6.abcd72c911918f637bf0.jpg",
+    "static/media/galeria5.jpg": "/decom-page/static/media/galeria5.ffc5a61f9bc1ad233c28.jpg",
+    "static/media/carrousel4.png": "/decom-page/static/media/carrousel4.762096f6afc516674968.png",
+    "static/media/carrousel1.png": "/decom-page/static/media/carrousel1.3cffff679857ecad49b2.png",
+    "static/media/carrousel2.jpg": "/decom-page/static/media/carrousel2.0586b760ee958a42d205.jpg",
+    "static/media/carrousel3.png": "/decom-page/static/media/carrousel3.8bce9715cdcee0a6be76.png",
+    "index.html": "/decom-page/index.html",
+    "main.5cc77a83.css.map": "/decom-page/static/css/main.5cc77a83.css.map",
+    "main.1f42f5b5.js.map": "/decom-page/static/js/main.1f42f5b5.js.map"
   },
   "entrypoints": [
     "static/css/main.5cc77a83.css",
-    "static/js/main.3e6525d9.js"
+    "static/js/main.1f42f5b5.js"
   ]
 }
