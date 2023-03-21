@@ -5,14 +5,6 @@
   padding: 0px;
 }
 
-header {
-  display: flex;
-  flex-direction: column;
-  width: 100vw;
-  height: 17vh;
-  font-size: 62, 5%;
-}
-
 h1 {
   font-family: 'Raleway';
   font-size: 2rem;
@@ -28,13 +20,13 @@ h1 {
   width: 100%;
   object-fit: cover;
   height: 70vh;
+  margin: -1% 0% 1% 0%;
 }
 
 main {
   display: flex;
   flex-direction: column;
   padding: 0% 5%;
-  margin: 2% 0% 0% 0%;
 }
 
 .text-section {
