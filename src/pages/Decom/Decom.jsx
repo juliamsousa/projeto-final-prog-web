@@ -14,7 +14,7 @@ function Decom() {
         <img
           src={coverImage}
           alt="imagem de pessoas graduando"
-          className="main-image">
+          className="decom-image">
         </img>
 
         <section className="text-section">
