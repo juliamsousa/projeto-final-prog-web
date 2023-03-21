@@ -9,7 +9,7 @@ function Home() {
   return (
     <section className='container'>
       <Header />
-      <main>
+      <div className='main'>
         <aside className="image-section">
           <img
             src={mainImage}
@@ -41,7 +41,7 @@ function Home() {
             <strong> Venha fazer parte dessa equipe!</strong>
           </p>
         </section>
-      </main>
+      </div>
     </section>
   );
 }

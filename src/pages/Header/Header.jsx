@@ -2,6 +2,7 @@ import React from 'react';
 
 import "./header.css"
 import logo from "../../assets/decom-logo.png"
+import { Link } from "react-router-dom";
 
 export default function Header() {
 
@@ -17,27 +18,27 @@ export default function Header() {
 
           <ul>
             <li className="referencia">
-              <a href="#about" className="referencia">Início</a>
+              <Link to="/inicio" className="referencia">Início</Link>
             </li>
 
             <li className="referencia">
-              <a href="#div-slider" className="referencia">DECOM</a>
+              <Link to="/decom" className="referencia">DECOM</Link>
             </li>
 
             <li className="referencia">
-              <a href="#company" className="referencia">Notícias</a>
+              <Link to="/noticias" className="referencia">Notícias</Link> 
             </li>
 
             <li className="referencia">
-              <a href="#gallery" className="referencia">Pessoal</a>
+              <Link to="/pessoal" className="referencia">Pessoal</Link> 
             </li>
 
             <li className="referencia">
-              <a href="#submit" className="referencia">Ensino</a>
+              <Link to="/ensino" className="referencia">Ensino</Link>   
             </li>
 
             <li className="referencia">
-              <a href="#submit" className="referencia">Pesquisa</a>
+              <Link to="/pesquisa" className="referencia">Pesquisa</Link>     
             </li>
           </ul>
         </nav>
