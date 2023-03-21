@@ -56,7 +56,7 @@ function Decom() {
           </p>
         </section>
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </section>
   );
 }
