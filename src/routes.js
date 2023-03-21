@@ -10,23 +10,23 @@ import {
 
 export const router = createBrowserRouter([
     {
-      path: "/",
+      path: "projeto-final-prog-web/",
       element: <Home/>,
     },
     {
-      path: "/decom",
+      path: "projeto-final-prog-web/decom",
       element: <Decom/>,
     },
     {
-        path: "/noticias",
+        path: "projeto-final-prog-web/noticias",
         element: <About/>, 
     },
     {
-        path: "/inicio",
+        path: "projeto-final-prog-web/inicio",
         element: <Home/>,
     },
     {
-        path: "/*",
+        path: "projeto-final-prog-web/*",
         element: <Home/>, 
     }
   ]);
