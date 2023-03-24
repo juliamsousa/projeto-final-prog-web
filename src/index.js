@@ -8,7 +8,7 @@ import {router} from "./routes"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <div>
-        <RouterProvider router={router} />
+        <RouterProvider router={router} basename="/React"/>
     </div>
 );
 
